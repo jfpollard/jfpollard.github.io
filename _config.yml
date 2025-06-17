@@ -1,7 +1,7 @@
 title: Paceline / John Pollard
 description: Strategic Technology & Business Consulting
 url: "https://jfpollard.github.io"
-baseurl: "/paceline"
+baseurl: "/jfpollard.github.io"
 
 # Build settings
 markdown: kramdown
