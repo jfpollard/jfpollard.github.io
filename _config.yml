@@ -1,7 +1,4 @@
 title: Paceline / John Pollard
-description: an introduction to Paceline and John Pollard
-url: "https://jfpollard.github.io"
-baseurl: "/jfpollard.github.io"
 
 remote_theme: pages-themes/minimal@v0.2.0
 
