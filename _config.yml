@@ -6,7 +6,7 @@ baseurl: "/jfpollard.github.io"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minimal
+theme: minima
 
 # Plugins
 plugins:
