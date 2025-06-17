@@ -1,4 +1,3 @@
-# Paceline / John Pollard
 
 I have a track record of growth and value creation via technical and GTM innovation, operational excellence, and building motivated teams that delight customers and perform financially.
 
